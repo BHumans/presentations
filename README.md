@@ -1,4 +1,4 @@
-<img src="https://bhumans/presentations/images/BetterHumans.jpg" height="300px" />
+<img src="https://bhumans.github.io/presentations/images/BetterHumans.jpg" height="300px" />
 
 # Presentations
 
