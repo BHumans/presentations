@@ -1,6 +1,9 @@
-# Welcome to my [Presentations](https://ajorquera.github.io/presentations)!
+# Better Humans
 
-This repo is for creating different presentations using markdown
+Welcome to our group. Here I'll post all information regarding our community. 
 
-* [I heart me](/I%20heart%20me/slides.md)
-* [Stoicism](/slides/stoicism.md)
+## Presentations
+* [Stoicism](https://ajorquera.github.io/presentations/stoicism.html)
+* [I Heart Me](https://ajorquera.github.io/presentations/i-heart-me.html)
+
+> Made with ❤️ [:octocat:](http://github.com/ajorquera)

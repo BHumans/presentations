@@ -2,10 +2,14 @@
   "name": "presentations",
   "private": true,
   "scripts": {
-    "start": "yarn build -s",
-    "build": "marp -I ./slides -o ./dist"
+    "start": "yarn build:slides -s",
+    "build:slides": "marp -I ./src/slides -o ./dist",
+    "build:home": "showdown makehtml -i ./README.md -o ./dist/index.html",
+    "build:images": "cp -r ./src/slides/images ./dist",
+    "build": "yarn build:slides && yarn build:home && yarn build:images"
   },
   "dependencies": {
-    "@marp-team/marp-cli": "^4.0.3"
+    "@marp-team/marp-cli": "^4.0.3",
+    "showdown": "^2.1.0"
   }
 }
