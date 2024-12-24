@@ -8,4 +8,6 @@ This repository will help to store the groups presentations in our activities
 
 * [I Heart Me](https://bhumans.github.io/presentations/i-heart-me.html): The importance of self esteem and the science behind it. *David R. Hamilton [<sup>1</sup>](https://www.goodreads.com/book/show/21255074-i-heart-me)*
 
+* [Active Listening](https://bhumans.github.io/presentations/active-listening.html): We discuss the meaning of active listening and the possible benefits to our life.
+
 > Made with ❤️ [<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" align="absmiddle" alt="octokat" width="20px" />](http://github.com/bhumans/presentations)
