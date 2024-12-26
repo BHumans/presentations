@@ -24,35 +24,35 @@ Active listening is being fully engaged while another person is talking to you. 
 
 ## Components Active Listening
 
-* **Paraphrasing:** We use to to verify that we understood the message. We want to use our own words to reflect what the person said. 
+- **Paraphrasing:** We use to to verify that we understood the message. We want to use our own words to reflect what the person said. 
 
-* **Reflective emotion:** When we reflect the persons emotion, there is a sense of feeling understood. Be aware that if its not genuine people it may be seem as deceptive. 
+- **Reflective emotion:** When we reflect the persons emotion, there is a sense of feeling understood. Be aware that if its not genuine people it may be seem as deceptive. 
 
-* **Open-ended questions:** We use it to deepen the conversation even more. We are looking to more than a yes/no answer. We are looking to unfold an onion. 
+- **Open-ended questions:** We use it to deepen the conversation even more. We are looking to more than a yes/no answer. We are looking to unfold an onion. 
 
 ---
 
-* **Assume positive intentions:** If the person that is speaking feels judge in some way, there is a chance that they will become defensive opposite to being vulnerable and vulnerability is the door for intimacy
+- **Assume positive intentions:** If the person that is speaking feels judge in some way, there is a chance that they will become defensive opposite to being vulnerable and vulnerability is the door for intimacy
 
-* **What's behind the curtain:** A lot of the times what people says has a deeper meaning. Its about uncovering what is behind the words, body language and emotions. By paying attention to these nuances, you can uncover the unspoken needs, fears, or desires behind someone’s words
+- **What's behind the curtain:** A lot of the times what people says has a deeper meaning. Its about uncovering what is behind the words, body language and emotions. By paying attention to these nuances, you can uncover the unspoken needs, fears, or desires behind someone’s words
 
 ---
 
 ## Barriers
 ![bg right:60%](./images/Communication-Barriers.webp)
-* Our own emotions
-* Lack of focus
-* Lack of motivation
-* Our ego
-* Not being genuine
+- Our own emotions
+- Lack of focus
+- Lack of motivation
+- Our ego
+- Not being genuine
 
 ---
 
 ## Lets practice
  
-* Next time you go and talk to anyone, do this challenge. Start a timer and for the next 20 minutes, the only thing that can come out of your mouth is another question. Try noticing how difficult it is. 
+- Next time you go and talk to anyone, do this challenge. Start a timer and for the next 20 minutes, the only thing that can come out of your mouth is another question. Try noticing how difficult it is. 
 
-* [Exercise](./assets/lets-practice.html)
+- [Exercise](./assets/lets-practice.html)
 
 ---
 
