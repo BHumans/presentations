@@ -10,4 +10,6 @@ This repository will help to store the groups presentations in our activities
 
 * [Active Listening](https://bhumans.github.io/presentations/active-listening.html): We discuss the meaning of active listening and the possible benefits to our life.
 
+* [Why therapy](https://bhumans.github.io/presentations/why-therapy.html): Understanding the power it can have in our lives...
+
 > Made with ❤️ [<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" align="absmiddle" alt="octokat" width="20px" />](http://github.com/bhumans/presentations)
