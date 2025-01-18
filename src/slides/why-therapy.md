@@ -26,57 +26,21 @@ A collaborative journey with a mental health professional that offers:
 
 ---
 
-<!-- backgroundColor: #8CAA92 -->
-
-# How Therapy Helps
-
-- Work through emotional challenges
-- Process past experiences and trauma
-- Develop effective coping strategies
-- Improve relationships and communication
-- Address anxiety and depression
-- Set and achieve personal goals
-- Build self-awareness
-
----
-
 <!-- backgroundColor: #9F8BA3 -->
 
 # The Evolution of Therapy
-
-![bg right:40% brightness:0.9](./images/history.webp)
-
-## Ancient Times
-- Mental health linked to spirituality
-- Greeks pioneer medical perspective
-- Hippocrates: natural causes theory
-
----
-
-<!-- backgroundColor: #9F8BA3 -->
-
-# Birth of Modern Therapy
-
-## 1800s - Early 1900s
-- Shift from asylums to humane treatment
-- Freud introduces psychoanalysis
-- Development of talk therapy
-- Jung's analytical psychology emerges
+![bg left:40%](./images/therapy-experts.jpg)
+* Ancient Greece with Hippocrates, Ayurvedic in India, The Ancient Egyptians, etc. 
+* Shift from asylums to humane treatment 1800-1900
+* Freud introduces psychoanalysis and later came Jung with analytical psychology
+* Aaron Beck develops Cognitive Therapy (CBT)
 
 ---
 
 <!-- backgroundColor: #7BA7BC -->
+![bg right:40%](./images/therapy-art.webp)
 
 # Therapy Today
-
-## Modern Approaches
-- Evidence-based treatments (CBT, DBT)
-- Reduced social stigma
-- Greater accessibility
-- Online therapy options
-- Personalized care plans
-
----
 
 ### Most Common
 1. Cognitive Behavioral Therapy (CBT)
@@ -104,27 +68,13 @@ A collaborative journey with a mental health professional that offers:
 
 <!-- backgroundColor: #8CAA92 -->
 
-# Benefits of Therapy
+# How it has helped me?
 
-## Personal Growth
-- Better emotional regulation
-- Improved relationships
-- Enhanced self-awareness
-- Stronger coping skills
-- Greater life satisfaction
+![bg right:40%](./images/hope.jpg)
 
-![bg right:40%](./images/benefits.webp)
-
----
-
-<!-- backgroundColor: #7BA7BC -->
-
-# Taking the First Step
-
-## Ready to Start?
-- Research different therapy types
-- Find licensed professionals
-- Check insurance coverage
-- Schedule initial consultation
-- Begin your journey to well-being
-
+* Crazy amount of self awareness for myself and towards others
+* Feeling like Im not crazy. Im not broken
+* Capability to focus on others on a whole new level. 
+* Understanding on I work as a human
+* Emotional self regulation and impulse control
+* Giving myself some kind of self therapy.
