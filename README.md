@@ -12,4 +12,38 @@ This repository will help to store the groups presentations in our activities
 
 * [Why therapy](https://bhumans.github.io/presentations/why-therapy.html): Understanding the power it can have in our lives...
 
-> Made with ❤️ [<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" align="absmiddle" alt="octokat" width="20px" />](http://github.com/bhumans/presentations)
+* [Emotional Intelligence](https://bhumans.github.io/presentations/emotional-inteligence.html): The basics of emotions for the use in our lives
+
+<style>
+    .gallery img {
+        width: 200px;
+    }
+
+    .gallery {
+        margin: 50px 0
+    }
+</style>
+## Gallery
+<div class="gallery" style="display: flex; gap: 0; flex-wrap: wrap;">
+    <img src="./src/slides/images/BetterHumans.jpg" />
+    <img src="./src/slides/images/BetterHumans.jpg" />
+    <img src="./src/slides/images/BetterHumans.jpg" />
+    <img src="./src/slides/images/BetterHumans.jpg" />
+</div>
+
+## Love and appreciation
+<ul>
+    <li>
+        <div style="display: flex; align-items: center; ">
+            <a href="https://github.com/IndianTinker"> Rohit Gupta <img src="https://avatars.githubusercontent.com/u/3526646" width="50px" height="50px" />
+            </a>
+        </div>
+    </li>
+</ul>
+
+<div style="text-align: center;">
+    Made with ❤️ 
+    <a href="http://github.com/bhumans presentations">
+        <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" align="absmiddle" alt="octokat" width="20px" />
+    </a>
+</div> 
