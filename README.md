@@ -26,10 +26,10 @@ This repository will help to store the groups presentations in our activities
 </style>
 ## Gallery
 <div class="gallery" style="display: flex; gap: 0; flex-wrap: wrap;">
-    <img src=".https://bhumans.github.io/presentations/images/1.png" />
-    <img src=".https://bhumans.github.io/presentations/images/2.jpeg" />
-    <img src=".https://bhumans.github.io/presentations/images/3.jpeg" />
-    <img src=".https://bhumans.github.io/presentations/images/4.jpeg" />
+    <img src="https://bhumans.github.io/presentations/images/1.png" />
+    <img src="https://bhumans.github.io/presentations/images/2.jpeg" />
+    <img src="https://bhumans.github.io/presentations/images/3.jpeg" />
+    <img src="https://bhumans.github.io/presentations/images/4.jpeg" />
 </div>
 
 ## Help
