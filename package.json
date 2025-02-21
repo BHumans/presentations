@@ -5,7 +5,7 @@
     "start": "yarn build:slides -s",
     "build:slides": "marp -I ./src/slides -o ./dist",
     "build:home": "showdown makehtml -i ./README.md -o ./dist/index.html",
-    "build:images": "cp -r ./src/slides/images ./dist",
+    "build:images": "cp -r ./src/slides/images ./dist && cp -r ./assets/images ./dist",
     "build": "yarn build:slides && yarn build:home && yarn build:images"
   },
   "dependencies": {

@@ -1,4 +1,5 @@
-<img src="./assets/images/BetterHumans.jpg" height="300px" />
+<img src="https://bhumans.github.io/presentations/images/BetterHumans.jpg" height="300px" />
+
 
 # Presentations
 
@@ -25,18 +26,17 @@ This repository will help to store the groups presentations in our activities
 </style>
 ## Gallery
 <div class="gallery" style="display: flex; gap: 0; flex-wrap: wrap;">
-    <img src="./assets/images/1.png" />
-    <img src="./assets/images/2.jpeg" />
-    <img src="./assets/images/3.jpeg" />
-    <img src="./assets/images/4.jpeg" />
+    <img src=".https://bhumans.github.io/presentations/images/1.png" />
+    <img src=".https://bhumans.github.io/presentations/images/2.jpeg" />
+    <img src=".https://bhumans.github.io/presentations/images/3.jpeg" />
+    <img src=".https://bhumans.github.io/presentations/images/4.jpeg" />
 </div>
 
 ## Help
 Im trying to become a better listener. If you have some time and want someone to listen to you, you can use me as practice
-and both of us benefit from it :)
-<!-- Google Calendar Appointment Scheduling begin -->
-<iframe src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ3VM5Ok6973SXpPM08F8O8sOZhXkOLp0gV6jTizLVWCrc0FsYvwH5H8kxs7Hja5hi9vZ_8SI84p?gv=true" style="border: 0" width="100%" height="600" frameborder="0"></iframe>
-<!-- end Google Calendar Appointment Scheduling -->
+and both of us benefit from it :). <a href="https://calendar.app.google/wL33YZseoT7qMDwdA">Make appointment</a>
+
+
 
 ## Love and appreciation
 <ul>
