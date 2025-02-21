@@ -50,7 +50,7 @@ and both of us benefit from it :). <a href="https://calendar.app.google/wL33YZse
 
 <div style="text-align: center;">
     Made with ❤️ 
-    <a href="http://github.com/bhumans presentations">
+    <a href="http://github.com/bhumans/presentations">
         <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" align="absmiddle" alt="octokat" width="20px" />
     </a>
 </div> 
