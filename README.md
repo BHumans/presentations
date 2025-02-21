@@ -17,7 +17,7 @@ This repository will help to store the groups presentations in our activities
 
 <style>
     .gallery img {
-        width: 200px;
+        height: 200px;
     }
 
     .gallery {
