@@ -52,19 +52,22 @@ Managing your emotions and impulses effectively
 **Benefits:**
 - Better decision-making
 - Increased adaptability
-- Improved stress management
-- Enhanced reputation
-- Stronger relationships
+- Improved emotional management
+- Stability
+- Sense of control over your life
 
 ---
 
-Self-Regulation Strategies
+**Self-Regulation Strategies:**
 
-- Practice mindfulness
-- Use the pause-think-act approach
-- Identify your values
-- Take responsibility for your actions
-- Learn from setbacks
+- Practice mindfulness activities. Yoga, meditation, breathing.
+- Look for someone to listen to you
+- Write whatever is that you are feeling
+- Shifting focus
+- Divide complex issues into smaller problems
+- Cognitive reestructuring
+- Crying or releasing anger
+
 
 ---
 
@@ -72,28 +75,25 @@ Self-Regulation Strategies
 
 Internal drive to pursue goals beyond external rewards
 
-**Characteristics:**
+**Benefits:**
 - Strong drive to achieve
 - Commitment to goals
-- Initiative
+- Having purpose
 - Optimism
-- Resilience
 
 ---
 
-Building Motivation
-
-- Set meaningful personal goals
-- Break large goals into smaller steps
+**Building Motivation**
+- Engadge in things that are exciting
 - Celebrate small wins
 - Find your 'why'
-- Maintain a growth mindset
+- Find the things that you like
 
 ---
 
 # 4. Empathy
 
-### Understanding and sharing the feelings of others
+Understanding and sharing the feelings of others
 
 **Types of Empathy:**
 - Cognitive Empathy (understanding)
@@ -102,41 +102,37 @@ Building Motivation
 
 ---
 
-### Developing Empathy
+**Developing Empathy**
 
 - Practice active listening
-- Put yourself in others' shoes
+- Put yourself in other's shoes
+- Pause yourself
 - Observe body language
 - Be curious about people
 - Challenge your prejudices
+- Mirror emotions
 
 ---
 
 # 5. Social Skills
 
-Managing relationships and building networks
+Managing relationships 
 
 **Key abilities:**
 - Communication
-- Leadership
 - Conflict management
-- Team collaboration
-- Building bonds
+- Awareness
+- Self control
+- Generous
+
 
 ---
 
-# Improving Social Skills
+**Improving Social Skills**
 
-- Practice clear communication
-- Learn to give and receive feedback
+- Practice asertiveness and listening
+- Focus on listening not on giving advice
 - Develop conflict resolution skills
 - Show appreciation for others
-- Build and maintain relationships
-
----
-
-# Benefits of High EQ
-
-You will be the conquerer of your own life
-
----
+- Practive with the people around you
+- Asume the best out of people
