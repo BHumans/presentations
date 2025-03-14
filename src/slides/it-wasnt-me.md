@@ -46,11 +46,13 @@ Tendency to attribute positive outcomes to our own actions and negative outcomes
 
 1. **Lack of Accountability**
 
-2. **Gaslighting**
+2. **Manipulation**
 
 3. **Selfishness**
 
-4. **Stonewalling**
+4. **Avoidance**
+
+> Villains are frecuently born from trauma
 
 ![bg  right](./images/villain.webp)
 
