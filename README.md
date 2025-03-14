@@ -15,9 +15,11 @@ This repository will help to store the groups presentations in our activities
 
 * [Emotional Intelligence](https://bhumans.github.io/presentations/emotional-inteligence.html): The basics of emotions for the use in our lives
 
+* [It Wasn't Me](https://bhumans.github.io/presentations/it-wasnt-me.html): Sometimes the villain is you
+
 <style>
     .gallery img {
-        height: 200px;
+        width: 200px;
     }
 
     .gallery {
