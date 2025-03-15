@@ -35,13 +35,6 @@ Tendency to attribute positive outcomes to our own actions and negative outcomes
 ```
 ---
 
-## Why It Happens
-**Ego Protection:** Admitting fault can hurt our self-esteem, so our brain protects us by shifting blame.
-
-**Cognitive Laziness:** It’s easier to blame others than to reflect on our own behavior.
-
----
-
 ## **Characteristics of the Villain**
 
 1. **Lack of Accountability**
