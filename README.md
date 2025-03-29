@@ -17,6 +17,8 @@ This repository will help to store the groups presentations in our activities
 
 * [It Wasn't Me](https://bhumans.github.io/presentations/it-wasnt-me.html): Sometimes the villain is you
 
+* [How to say hard things](https://bhumans.github.io/presentations/how-to-say-hard-things.html): embracing difficult conversations
+
 <style>
     .gallery img {
         width: 200px;
