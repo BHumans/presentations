@@ -19,6 +19,8 @@ This repository will help to store the groups presentations in our activities
 
 * [How to say hard things](https://bhumans.github.io/presentations/how-to-say-hard-things.html): embracing difficult conversations
 
+* [Understanding emotions](https://bhumans.github.io/presentations/understanding-emotions.html): The more you understand them, the less they control you
+
 <style>
     .gallery img {
         width: 200px;
