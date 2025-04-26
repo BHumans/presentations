@@ -21,6 +21,9 @@ This repository will help to store the groups presentations in our activities
 
 * [Understanding emotions](https://bhumans.github.io/presentations/understanding-emotions.html): The more you understand them, the less they control you
 
+* [Am I Blind?](https://bhumans.github.io/presentations/am-i-blind.html):  
+How our biases prevent us from seeing reality
+
 <style>
     .gallery img {
         width: 200px;
