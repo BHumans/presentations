@@ -24,6 +24,9 @@ This repository will help to store the groups presentations in our activities
 * [Am I Blind?](https://bhumans.github.io/presentations/am-i-blind.html):  
 How our biases prevent us from seeing reality
 
+* [Know thyself](https://bhumans.github.io/presentations/know-thyself.html):  
+The art and science of introspection
+
 <style>
     .gallery img {
         width: 200px;
