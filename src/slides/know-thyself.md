@@ -46,45 +46,27 @@ you know what you need,
 <br />
 >“Life just becomes easier”
 
+![bg right](./images/superhuman.png)
 
 ---
 
-## Enhanced Emotional Intelligence
+## Techniques for Introspection
 
-*   Introspection can also enhance **emotional intelligence** [1].
-*   Understanding one's own emotions is key to emotional intelligence [1, derived].
+* Therapy
+* Journaling
+* Meditation
+* Look for the answer in you
+* Self-Questioning
+* Seeking Feedback
 
----
+### Challenges in Introspection
 
-## Enhanced Decision-Making
-
-*   Furthermore, introspection can enhance **decision-making** [1].
-*   Clearer self-understanding can lead to better choices [1, derived].
-
----
-
-## Who is it For?
-
-This subject of introspection is particularly relevant for certain individuals [1].
+* Cognitive Bias
+* Avoidance
+* Overthinking 
+* Emotional Intensity
 
 ---
 
-## For Those Who Struggle to Know What They Want
-
-*   Introspection is helpful for us that **struggle to know what we want** [1].
-*   Examining inner thoughts and emotions can provide clarity [1, derived].
-
----
-
-## For Those Feeling Stuck in Life
-
-*   It is also relevant for us **feeling stuck in life** [1].
-*   Self-reflection can help identify paths forward [1, derived].
-
----
-
-## Conclusion
-
-*   Introspection, the examination of one's inner life, is a powerful practice [1].
-*   It can enhance **self-awareness, emotional intelligence, and decision-making** [1].
-*   It offers value, especially for those seeking clarity or feeling stuck [1].
+## How we (could) use it in our life?
+![bg right:50%](./images/look-inside.jpeg)
