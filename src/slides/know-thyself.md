@@ -69,4 +69,4 @@ you know what you need,
 ---
 
 ## How we (could) use it in our life?
-![bg right:50%](./images/look-inside.jpeg)
+![bg fit right:40%](./images/look-inside.jpeg)
