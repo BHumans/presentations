@@ -1,0 +1,9 @@
+/* @theme better-humans */
+
+@import 'default';
+
+:root {}
+
+ul li {
+  font-size: 20px;
+}
